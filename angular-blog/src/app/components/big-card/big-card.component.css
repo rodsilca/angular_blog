@@ -23,4 +23,8 @@
 
 .big-card-image img{
     width: 100%;
+
+}
+.big-card-image:hover{
+    cursor:pointer;
 }

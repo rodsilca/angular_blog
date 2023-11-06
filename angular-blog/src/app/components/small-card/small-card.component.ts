@@ -10,6 +10,7 @@ export class SmallCardComponent {
   small_card_cover:string = ''
   @Input()
   small_card_title:string = ''
-  
+  @Input()
+  Id:string = "0"
   
 }
